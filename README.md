@@ -1,3 +1,3 @@
 # Missile
 
-Flag 3/4 -> CK{OLDV3RSION}
+Flag 3/4 -> This flag was deleted
